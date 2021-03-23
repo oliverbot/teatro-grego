@@ -1,2 +1,2 @@
 # Teatro Grego
-## Compilação de clássicos da literatura
+Compilação de clássicos da literatura
